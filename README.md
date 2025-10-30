@@ -2,26 +2,18 @@
 
 **Capstone Project at Digitaley Drive Data Analytics Bootcamp**
 
-**---**
 
 ## 🧭 Overview  
 Dano Airlines, a UK-based carrier, recently recorded a **drop in passenger satisfaction below 50%** — the lowest in its history.  
 This project analyzes passenger survey data to uncover **why satisfaction has declined** and to provide **data-driven recommendations** that will help the airline improve customer experience.
-
----
 
 ## 🎯 Objective  
 - Identify the main factors influencing passenger satisfaction.  
 - Evaluate how delays, service quality, and flight characteristics affect customer experience.  
 - Recommend practical strategies to boost satisfaction and loyalty.  
 
----
-
 ## 🧹 Data Cleaning & Preparation  
 Data cleaning was performed using **Microsoft Excel Power Query**.
-
-
----
 
 ### 🔍 Key Questions  
 1. What percentage of passengers are satisfied?  
@@ -34,8 +26,6 @@ Data cleaning was performed using **Microsoft Excel Power Query**.
 - 💺 **Economy class** and **business travelers** reported lower satisfaction.  
 - 🍽️ Poor ratings in **seat comfort**, **WiFi service**, and **food quality** are major pain points.  
 - 🔁 **Returning customers** are generally more satisfied than first-time flyers.  
-
----
 
 ## 🚀 Recommendations
 
