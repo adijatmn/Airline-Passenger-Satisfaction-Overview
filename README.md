@@ -28,10 +28,10 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
   
 ## 🚀 Recommendations
  
-• Reduce **departure and arrival delays** to improve punctuality especially departures exceeding 60 minutes.
-• Upgrade **seat comfort**, **in-flight Wi-Fi**, and **food service quality**.  
+• Reduce **departure and arrival delays** to improve punctuality especially departures exceeding 60 minutes.  
 • Introduce **loyalty rewards** for frequent and returning passengers.  
 • Provide tailored services and experieneces for **business vs personal travelers**.  
+• Upgrade **seat comfort**, **in-flight Wi-Fi**, and **food service quality**. 
 
  ## 🛠️ Tools & Methodologies 
 
