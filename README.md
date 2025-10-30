@@ -45,4 +45,6 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
   ▸ Data Visualization & Storytelling: Dashboard creation and business insight communication  
 
 ## 🎯 Final Thoughts  
-This analysis highlights the importance of operational efficiency and passenger comfort in shaping customer satisfaction. Improving service points especially comfort, punctuality, and in-flight experience will not only raise satisfaction scores but also strengthen brand loyalty. Through data-driven insights, Dano Airlines can transform feedback into action and build a more passenger-centric airline experience.
+The findings show that both efficiency and comfort play vital roles in shaping customer satisfaction.
+By focusing on better comfort, punctuality, and in-flight experience, Dano Airlines can enhance satisfaction and build stronger customer loyalty.
+With data-driven insights guiding decisions, the airline can transform passenger feedback into actions that improve every passenger journey.
