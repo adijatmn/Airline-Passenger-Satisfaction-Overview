@@ -1,10 +1,9 @@
 # Dano Airlines Customer Satisfaction Analysis  
 This project provides a comprehensive analysis of Dano Airlines using Microsoft Excel. It explores the major factors influencing passenger satisfaction, examines delay durations, evaluates in-flight service ratings, and highlights segment performance to guide actionable, data-driven improvements.
 
-<p align="center">
-  <img src="./DANO%20AIRLINE%20DASHBOARD.jpeg" alt="Dano Airlines Dashboard" width="800">
+ <p align="center">
+  <img src="./DANO%20AIRLINE%20DASHBOARD.jpg" alt="Dano Airlines Dashboard" width="800">
 </p>
-
 
 ## 🧭 Overview  
 Dano Airlines, a UK-based carrier, recently recorded a **drop in passenger satisfaction below 50%** — the lowest in its history.  
