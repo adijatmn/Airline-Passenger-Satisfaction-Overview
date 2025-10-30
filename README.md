@@ -22,10 +22,11 @@ Data cleaning was performed using **Microsoft Excel Power Query**.
 4. Are there satisfaction differences by **class, travel type, or customer group**?
 
 ### 📌 Key Findings  
-- ✈️ **Longer delays (>60 mins)** strongly reduce satisfaction rates.  
-- 💺 **Economy class** and **business travelers** reported lower satisfaction.  
-- 🍽️ Poor ratings in **seat comfort**, **WiFi service**, and **food quality** are major pain points.  
-- 🔁 **Returning customers** are generally more satisfied than first-time flyers.  
+• **Flights delayed for over 60 minutes** were recorded the lowest satisfaction scores.  
+• **Economy class** passengers and **business travelers** showed higher dissatisfaction.  
+• **Seat comfort**, **Wi-Fi**, and **food & drink** received the lowest service ratings.  
+• **Returning customers** were generally more satisfied than first-time flyers.  
+  
 
 ## 🚀 Recommendations
 
@@ -34,7 +35,15 @@ Data cleaning was performed using **Microsoft Excel Power Query**.
 3. **Reward returning customers** and enhance loyalty programs.
 4. Provide tailored experiences for **business vs personal travelers**.
 
----
+🧰 Tools & Methodologies 
+
+• **Tool used**: Microsoft Excel  
+• **Methods**:
+  ▸ Power Query: Data cleaning and transformation  
+  ▸ Power Pivot: Data modeling and DAX calculations  
+  ▸ PivotTables & Charts: Trend analysis and summarization  
+  ▸ Exploratory Data Analysis (EDA): Pattern identification and KPI tracking  
+  ▸ Data Visualization & Storytelling: Dashboard creation and business insight communication  
 
 ## 🎯 Final Thoughts  
 This analysis highlights the importance of operational efficiency and passenger comfort in shaping customer satisfaction.  
