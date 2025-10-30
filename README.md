@@ -21,11 +21,10 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
 • **Returning customers** were generally more satisfied than first-time flyers.  
   
 ## 🚀 Recommendations
-
-▸ **Reduce delays**, especially departures exceeding 60 minutes.
-▸ Improve **seat comfort, Wi-Fi reliability, and food quality**.
-▸ **Reward returning customers** and enhance loyalty programs.
-▸ Provide tailored experiences for **business vs personal travelers**.
+▸  **Reduce delays**, especially departures exceeding 60 minutes.
+▸  Improve **seat comfort, Wi-Fi reliability, and food quality**.
+▸  **Reward returning customers** and enhance loyalty programs.
+▸  Provide tailored experiences for **business vs personal travelers**.
 
  ## 🛠️ Tools & Methodologies 
 
