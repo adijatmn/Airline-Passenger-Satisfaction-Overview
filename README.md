@@ -12,9 +12,6 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
 - Evaluate how delays, service quality, and flight characteristics affect customer experience.  
 - Recommend practical strategies to boost satisfaction and loyalty.  
 
-## 🧹 Data Cleaning & Preparation  
-Data cleaning was performed using **Microsoft Excel Power Query**.
-
 ### 🔍 Key Questions  
 1. What percentage of passengers are satisfied?  
 2. How do **departure and arrival delays** affect satisfaction?  
@@ -39,6 +36,7 @@ Data cleaning was performed using **Microsoft Excel Power Query**.
 
 • **Tool used**: Microsoft Excel  
 • **Methods**:
+
   ▸ Power Query: Data cleaning and transformation  
   ▸ Power Pivot: Data modeling and DAX calculations  
   ▸ PivotTables & Charts: Trend analysis and summarization  
