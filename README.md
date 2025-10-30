@@ -1,8 +1,4 @@
-# ✈️ Dano Airlines Customer Satisfaction Analysis  
-
-**Capstone Project at Digitaley Drive Data Analytics Bootcamp**
-
-
+# Dano Airlines Customer Satisfaction Analysis  
 ## 🧭 Overview  
 Dano Airlines, a UK-based carrier, recently recorded a **drop in passenger satisfaction below 50%** — the lowest in its history.  
 This project analyzes passenger survey data to uncover **why satisfaction has declined** and to provide **data-driven recommendations** that will help the airline improve customer experience.
@@ -13,10 +9,10 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
 - Recommend practical strategies to boost satisfaction and loyalty.  
 
 ### 🔍 Key Questions  
-1. What percentage of passengers are satisfied?  
-2. How do **departure and arrival delays** affect satisfaction?  
-3. Which **service factors** (comfort, WiFi, food, etc.) drive dissatisfaction?  
-4. Are there satisfaction differences by **class, travel type, or customer group**?
+• What percentage of passengers are satisfied?  
+• How do **departure and arrival delays** affect satisfaction?  
+• Which **service factors** (comfort, WiFi, food, etc.) drive dissatisfaction?  
+• Are there satisfaction differences by **class, travel type, or customer group**?
 
 ### 📌 Key Findings  
 • **Flights delayed for over 60 minutes** were recorded the lowest satisfaction scores.  
@@ -24,15 +20,14 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
 • **Seat comfort**, **Wi-Fi**, and **food & drink** received the lowest service ratings.  
 • **Returning customers** were generally more satisfied than first-time flyers.  
   
-
 ## 🚀 Recommendations
 
-1. **Reduce delays**, especially departures exceeding 60 minutes.
-2. Improve **seat comfort, Wi-Fi reliability, and food quality**.
-3. **Reward returning customers** and enhance loyalty programs.
-4. Provide tailored experiences for **business vs personal travelers**.
+▸ **Reduce delays**, especially departures exceeding 60 minutes.
+▸ Improve **seat comfort, Wi-Fi reliability, and food quality**.
+▸ **Reward returning customers** and enhance loyalty programs.
+▸ Provide tailored experiences for **business vs personal travelers**.
 
-🧰 Tools & Methodologies 
+ ## 🛠️ Tools & Methodologies 
 
 • **Tool used**: Microsoft Excel  
 • **Methods**:
