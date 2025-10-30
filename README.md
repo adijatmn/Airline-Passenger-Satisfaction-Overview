@@ -4,9 +4,9 @@ Dano Airlines, a UK-based carrier, recently recorded a **drop in passenger satis
 This project analyzes passenger survey data to uncover **why satisfaction has declined** and to provide **data-driven recommendations** that will help the airline improve customer experience.
 
 ## 🎯 Objective  
-- Identify the main factors influencing passenger satisfaction.  
-- Evaluate how delays, service quality, and flight characteristics affect customer experience.  
-- Recommend practical strategies to boost satisfaction and loyalty.  
+• Identify the main factors influencing passenger satisfaction.  
+• Evaluate how delays, service quality, and flight characteristics affect customer experience.  
+• Recommend practical strategies to boost satisfaction and loyalty.  
 
 ### 🔍 Key Questions  
 • What percentage of passengers are satisfied?  
@@ -21,10 +21,11 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
 • **Returning customers** were generally more satisfied than first-time flyers.  
   
 ## 🚀 Recommendations
-▸  **Reduce delays**, especially departures exceeding 60 minutes.
-▸  Improve **seat comfort, Wi-Fi reliability, and food quality**.
-▸  **Reward returning customers** and enhance loyalty programs.
-▸  Provide tailored experiences for **business vs personal travelers**.
+
+• **Reduce delays**, especially departures exceeding 60 minutes.
+• Improve **seat comfort, Wi-Fi reliability, and food quality**.
+• **Reward returning customers** and enhance loyalty programs.
+• Provide tailored experiences for **business vs personal travelers**.
 
  ## 🛠️ Tools & Methodologies 
 
@@ -38,6 +39,4 @@ This project analyzes passenger survey data to uncover **why satisfaction has de
   ▸ Data Visualization & Storytelling: Dashboard creation and business insight communication  
 
 ## 🎯 Final Thoughts  
-This analysis highlights the importance of operational efficiency and passenger comfort in shaping customer satisfaction.  
-Improving service touchpoints—especially comfort, punctuality, and in-flight experience—will not only raise satisfaction scores but also strengthen brand loyalty.  
-Through data-driven insights, Dano Airlines can transform feedback into action and build a more passenger-centric airline experience.  
+This analysis highlights the importance of operational efficiency and passenger comfort in shaping customer satisfaction. Improving service points especially comfort, punctuality, and in-flight experience will not only raise satisfaction scores but also strengthen brand loyalty. Through data-driven insights, Dano Airlines can transform feedback into action and build a more passenger-centric airline experience.
